@@ -1,0 +1,9 @@
+{
+  "name": "tp4-patterns",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test seance4-patterns/tp4-nom1-nom2/tp4.test.js",
+    "tp4": "npm test"
+  }
+}

@@ -1,12 +1,12 @@
-# TP4 — Patterns créationnels et structuraux
+﻿# TP4 â€” Patterns crÃ©ationnels et structuraux
 
-Parcours **Dev** réalisé pour ShopLite.
+Parcours **Dev** rÃ©alisÃ© pour ShopLite.
 
 ## Lancer le projet
 
 ```bash
 npm test
-node seance4-patterns/tp4-nom1-nom2/main.js
+node seance4-patterns/tp4-dev/main.js
 ```
 
 Le code met en pratique :
@@ -15,6 +15,6 @@ Le code met en pratique :
 - un Builder pour les messages ;
 - des Adapters pour Colissimo et DHL ;
 - des Decorators pour le retry et le cache ;
-- une Facade pour sélectionner le meilleur transporteur.
+- une Facade pour sÃ©lectionner le meilleur transporteur.
 
-Les explications sont dans [PATTERNS.md](./seance4-patterns/tp4-nom1-nom2/PATTERNS.md).
+Les explications sont dans [PATTERNS.md](./seance4-patterns/tp4-dev/PATTERNS.md).
